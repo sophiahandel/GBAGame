@@ -1,0 +1,23 @@
+Unknown configuration key throttle
+vbam: could not connect to socket
+vbam: No such file or directory
+VBA-M (BBA) [SDL]
+Searching for file vbam.cfg
+Searching current directory: /home/sophie/Documents/HW9
+Searching home directory: /home/sophie/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+Reading configuration file.
+Searching for file vba-over.ini
+Searching current directory: /home/sophie/Documents/HW9
+Searching home directory: /home/sophie/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+vba-over.ini NOT FOUND (using emulator settings)
+Trying patch MyGBAGame.ips
+Trying patch MyGBAGame.ups
+Trying patch MyGBAGame.ppf
+Trying to start LIRC: Failed
+Color depth: 32
+Shutting down
+23:14:59 08.04.2018: Wrote battery
